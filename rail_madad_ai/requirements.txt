@@ -1,5 +1,0 @@
-Flask
-tensorflow
-transformers
-pytesseract
-Pillow
